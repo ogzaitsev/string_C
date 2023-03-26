@@ -4,7 +4,7 @@ Implementation of the string.h library functions and some String class C# functi
 
 ## Information
 
-The C programming language has a set of functions implementing operations on strings (character strings and byte strings) in its standard library. Various operations, such as copying, concatenation, tokenization and searching are supported. For character strings, the standard library uses the convention that strings are null-terminated: a string of n characters is represented as an array of n + 1 elements, the last of which is a "NULL" character. \
+The C programming language a string of n characters is represented as an array of n + 1 elements, the last of which is a "NULL" character. \
 The only support for strings in the programming language proper is that the compiler translates quoted string constants into null-terminated strings.
 
 ### string.h Types
